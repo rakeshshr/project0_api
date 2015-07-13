@@ -1,0 +1,87 @@
+body{
+	background-size: 110%;
+	background-image: url("images/tom.jpg");
+}
+.well{
+	background-size: cover;
+	background-image: url("images/tom.jpg");
+
+}
+h1{
+	color: #B40404;
+	font-size:50px;
+	font-family: cursive;
+	font-weight: bold;
+}
+h4{
+	text-align: center;
+	color: #B40404;
+	font-weight: bold;
+}
+.bold {
+	font-weight:bold;
+}
+.modal-body{
+	background-color: #CECEF6;
+}
+.modal-header{
+		background-color: #CECEF6;
+}
+.modal-footer{
+		background-color: #CECEF6;
+
+}
+.col-sm-3{
+	width:340px;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 90px;
+}
+.bold{
+	text-align: center;
+}
+.container-fluid{
+		background-color:#CECEF6;
+}
+#new_post{
+	text-align: center;
+}
+.navbar-header{
+	font-size: 40px;
+	font-family: cursive; 
+}
+.btn btn-primary{
+	width: 600px;
+}
+.small-container {
+	max-width:800px;
+}
+
+.margin-top-10 {
+	margin-top:10px;
+}
+
+.margin-top-20 {
+	margin-top:20px;
+}
+
+.food-container {
+	width: 600px;
+	background-color:#CECEF6;
+	transition:all 0.3s linear;
+}
+
+.food-container:hover {
+	background-color:#A9F5A9;
+	transition:all 0.3s ease-in-out;
+}
+.edit-pencil {
+  color: #aaaaaa;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.edit-pencil:hover {
+  color: #333333;
+}
+
